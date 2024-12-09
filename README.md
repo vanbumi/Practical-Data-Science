@@ -1,5 +1,5 @@
 # Practical-Data-Science
-Hands-on Data Science projects showcasing skills in data analysis, visualization, and machine learning using Python. edit
+Hands-on Data Science projects showcasing skills in data analysis, visualization, and machine learning using Python.
 
 ### About this Repository
 This repository contains my collection of hands-on projects, exercises, and notebooks as I explore the world of Data Science and Machine Learning. Each project is built with a focus on learning practical skills and working with real-world datasets.
